@@ -1,0 +1,24 @@
+{
+  "name": "fp_flickr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/david-brown-dev/fp_flickr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/david-brown-dev/fp_flickr/issues"
+  },
+  "homepage": "https://github.com/david-brown-dev/fp_flickr#readme",
+  "dependencies": {
+    "ramda": "^0.26.1",
+    "save": "^2.4.0"
+  }
+}
